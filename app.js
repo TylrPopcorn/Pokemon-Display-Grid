@@ -6,7 +6,7 @@ const BaseURL =
 const root = document.querySelector("#root");
 
 //----
-for (let i = 1; i <= 299; i++) {
+for (let i = 1; i <= Math.floor(Math.random() * 300) + 1; i++) {
   //Loop through and create new elements for pokemon
   const pokemon = document.createElement("div"); //create a new div
   pokemon.classList.add("Pokemon");
