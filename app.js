@@ -31,3 +31,4 @@ for (let i = 1; i <= Math.floor(Math.random() * 300) + 1; i++) {
 }
 
 // :)
+// https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents
