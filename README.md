@@ -9,4 +9,5 @@ Live: https://pokemon-display-grid.onrender.com/
 <sup>Credit goes to the original/external sources used.</sup>
 
 # Related Projects
+-  [PingPong-ScoreKeepr](https://github.com/TylrPopcorn/PingPong-ScoreKeepr) - *A simple application that will keep track of your ping pong score*
 -  [Projects List](https://github.com/TylrPopcorn/Projects-List) - *Explore other projects I have worked on*
