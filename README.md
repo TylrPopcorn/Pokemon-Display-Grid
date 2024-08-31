@@ -10,4 +10,5 @@ Live: https://pokemon-display-grid.onrender.com/
 
 # Related Projects
 -  [PingPong-ScoreKeepr](https://github.com/TylrPopcorn/PingPong-ScoreKeepr) - *A simple application that will keep track of your ping pong score*
+-  [Television Show Search](https://github.com/TylrPopcorn/Television-Show-Search) - *A simple project showcasing how to manipulate an API in Svelte.js*
 -  [Projects List](https://github.com/TylrPopcorn/Projects-List) - *Explore other projects I have worked on*
